@@ -1,0 +1,6 @@
+package app.andika.coroutines_pokemonpage.model
+
+data class Version(
+    val name: String,
+    val url: String
+)
